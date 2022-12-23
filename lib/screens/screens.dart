@@ -1,0 +1,9 @@
+export 'package:duvit/screens/home_screen.dart';
+export 'package:duvit/screens/info_screen.dart';
+export 'package:duvit/screens/login_screen.dart';
+export 'package:duvit/screens/map_screen.dart';
+export 'package:duvit/screens/tasks_screen.dart';
+export 'package:duvit/screens/tasks_history_screen.dart';
+export 'package:duvit/screens/projects_screen.dart';
+export 'package:duvit/screens/project_tasks_screen.dart';
+export 'package:duvit/screens/project_members_screen.dart';
